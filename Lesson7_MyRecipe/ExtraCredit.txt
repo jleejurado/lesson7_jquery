@@ -1,0 +1,4 @@
+In this file, briefly describe the features you added to enhance theRecipe Display Applicationfor your recipe.
+
+I made the color of the headers brown and orange to look better with the theme of fall and pumpkins. Likewise, I integrated the same drop down list animation as the brownie recipe, but slowed down the movement to help those with eye problems. The previous speed might have surprised or confused older users who are viewing the recipe. I spaced out several of the directions within the Intructions header of the recipe so that they would not be skipped over by someone skimming the recipe. 
+Pumpkin pie is one of my favorite desserts! Enjoy!
